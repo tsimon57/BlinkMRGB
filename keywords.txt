@@ -1,0 +1,3 @@
+BlinkMRGBBegin	KEYWORD2
+BlinkMRGB	KEYWORD2
+DigisparkRGBDelay	KEYWORD2
